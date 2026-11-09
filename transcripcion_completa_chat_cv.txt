@@ -1,0 +1,601 @@
+TRANSCRIPCIÓN COMPLETA DEL CHAT
+(Usuario y Asistente, en orden cronológico. Las imágenes se indican con marcadores.)
+
+USUARIO:
+Necesito hacer un currículum con formato Harvard decime que necesitas
+
+ASISTENTE:
+Sí. Para armarte un **CV estilo Harvard**, limpio, profesional y pensado para que pase bien filtros ATS, mandame la información aunque esté desordenada; yo después la organizo y redacto.
+
+Necesito:
+
+1. **Datos personales**
+   - Nombre y apellido
+   - Ciudad / provincia
+   - Teléfono
+   - Email
+   - LinkedIn, si tenés
+   - GitHub / portfolio, si aplica  
+   *(En este formato normalmente no pondría foto, DNI, edad, estado civil ni dirección exacta.)*
+
+2. **Qué estás buscando**
+   - Puesto o área a la que querés apuntar.
+   - Ej.: Desarrollo de Software, Sistemas, Soporte IT, QA, Data, etc.
+   - Si buscás pasantía, primer empleo, junior, etc.
+
+3. **Estudios**
+   - Carrera
+   - Universidad / instituto
+   - Fecha de inicio y, si corresponde, fecha estimada de finalización
+   - Estado actual: cursando, recibido, etc.
+   - Promedio, solo si es bueno y querés incluirlo.
+
+4. **Experiencia laboral**
+   Por cada trabajo:
+   - Empresa
+   - Puesto
+   - Fecha desde/hasta
+   - Qué hacías
+   - Logros o cosas importantes que hayas conseguido  
+   No hace falta que lo redactes lindo. Podés decirme algo tipo: *“trabajaba atendiendo clientes, manejaba stock y hacía X”* y yo lo convierto a formato profesional.
+
+5. **Proyectos**
+   Esto puede servir mucho si todavía no tenés demasiada experiencia laboral.
+   - Nombre del proyecto
+   - Qué hiciste
+   - Tecnologías utilizadas
+   - Si fue universitario, personal o laboral
+   - Link a GitHub si existe.
+
+6. **Conocimientos técnicos**
+   Mandame todo lo que manejás, por ejemplo:
+   - Lenguajes
+   - SQL / bases de datos
+   - React / React Native
+   - Git
+   - Linux
+   - UML
+   - Testing / QA
+   - Redes
+   - Arduino / ESP32 / IoT
+   - Otros programas o herramientas.
+
+7. **Idiomas**
+   - Idioma
+   - Nivel aproximado: básico, intermedio, avanzado, bilingüe, etc.
+   - Certificaciones, si tenés.
+
+8. **Cursos y certificaciones**
+   - Nombre
+   - Institución
+   - Año
+   - Certificado si corresponde.
+
+9. **Otras cosas que puedan sumar**
+   - Voluntariados
+   - Premios
+   - Actividades extracurriculares
+   - Licencia de conducir
+   - Disponibilidad para viajar/relocalizarte, solamente si tiene sentido para el puesto.
+
+**No te preocupes por el orden ni por cómo escribirlo.** Mandame toda esa información como te salga, incluso en varios mensajes. Con eso te puedo preparar un CV **Harvard de 1 página**, priorizando lo más importante y redactando los bullets con verbos de acción y resultados cuando sea posible. Después, si querés, también te lo puedo dejar listo en **PDF y Word**.
+
+USUARIO:
+Nicolas Héctor Giuliani 
+La plata bueno aires 
+2214346462
+Yuyi.giuliani@gmail.com
+LinkedIn está igual que mi nombre sino te paso el link no se que necesitas https://www.linkedin.com/in/nicolas-h%C3%A9ctor-giuliani-0bb6b6427?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
+De git hub/ por folio no se que necesitas si queres lo armo 
+2 desarrollo de software, sistemas, it 
+3 tecnicqturq en desarrollo de software  
+Universidad argentina de la empresa (Uade)
+Fecha de inicio marzo del 2025 finalización marzo del 2027
+Estado actual últimos semestre de cursado 
+Promedio 6.5
+
+
+
+Te mando esto y pásame lo que falta y dsp sigo completando
+
+ASISTENTE:
+Perfecto. Con eso ya tengo armado el encabezado y la parte de educación. El **LinkedIn con ese link alcanza**, no necesito nada más de ahí.
+
+Por ahora quedaría así:
+
+**NICOLÁS HÉCTOR GIULIANI**  
+La Plata, Buenos Aires | 221 434-6462 | Yuyi.giuliani@gmail.com | LinkedIn
+
+**EDUCACIÓN**  
+**Universidad Argentina de la Empresa (UADE)** — Tecnicatura en Desarrollo de Software  
+Marzo 2025 – Marzo 2027 (finalización estimada)  
+Actualmente cursando el último semestre.
+
+El **promedio 6,5 yo no lo pondría** en el CV. No te perjudica tenerlo, pero tampoco suma demasiado y en un CV Harvard conviene usar ese espacio para proyectos, conocimientos o experiencia.
+
+Y sobre **GitHub/portfolio**: por ahora no hace falta que armes nada. Cuando lleguemos a tus proyectos vemos cuáles vale la pena subir a GitHub y ahí sí lo agregamos.
+
+Ahora mandame esto:
+
+1. **Experiencia laboral:** contame todos los trabajos que hayas tenido, aunque no tengan nada que ver con sistemas. Empresa/lugar, puesto, fechas aproximadas y qué hacías. Si nunca trabajaste, decime directamente.
+
+2. **Proyectos de programación/sistemas:** acá seguramente podemos sacar bastante de la facultad. Contame los proyectos que recuerdes: apps, trabajos con React Native, bases de datos/SQL, Arduino/ESP32, páginas, sistemas, etc. No importa si fueron trabajos prácticos.
+
+3. **Tecnologías que sabés usar:** decime cuáles manejás y, si podés, más o menos qué nivel sentís que tenés. Por ejemplo: Java, JavaScript, React Native, SQL/MySQL, Git/GitHub, Linux, UML, HTML/CSS, testing, Arduino, ESP32, etc.
+
+4. **Idiomas:** principalmente inglés y qué nivel considerás que tenés. Si estudiaste en algún instituto o rendiste algún examen, también.
+
+5. **Cursos/certificados:** cualquier curso por fuera de UADE, aunque sea online.
+
+6. **Otra información:** licencia de conducir, disponibilidad horaria, voluntariados o cualquier actividad que consideres que pueda sumar.
+
+Mandame primero **la experiencia laboral**, aunque sea escrita así nomás. Yo después la transformo a lenguaje de CV profesional.
+
+USUARIO:
+Escuchame, ahí estoy hablando con mi padre que es con el que hice los proyectos. A ver, yo tengo dos proyectos. Tipo uno que es una temp track, que es un sistema de monitoreo de frigoríficos, de supermercados, almacenes, todo lo que tenga heladeras. Y ahora está implementado en un frigorífico, en una parrilla, ponele, gastronomía. Y va a estar en otras dos, o sea, varios grupos gastronómicos y un frigorífico grande en Buenos Aires. Y o sea, eso como principal, eso está hecho todo con un Arduino. A ver, ya lo habías puesto todo eso. No sé si lo fui hablando con vos ese proyecto o lo comenté alguna vez. Yo lo fui armando por otro lado igual. Pero si lo comenté, ya más o menos tenés en cuenta qué es, más o menos. Y después el otro proyecto es un proyecto que se llamaba Urbanube, que es un proyecto dedicado a todo lo que es la red inmobiliaria. O sea, nosotros lo que hicimos fue hacerle toda una página web, un CRM y una app mobile a una empresa inmobiliaria de acá que se llama Century 21, supongo la sabés cuál es. Y nada, estuve encargado de todo lo que es el front de la web, o sea, encargado. O sea, me dediqué al front de la web porque es un proyecto entre cuatro o cinco personas. Por eso te digo que encargado entre comillas, pero al mismo tiempo sí. Y después me encargué de todo lo que es la app web con front y back, la app mobile, perdón, no la app web. La app mobile con front y back y todo con React Native. No sé, decime qué más necesitas. Nada. Esa es mi experiencia barra proyectos de programación, o sea experiencia laboral no tengo, tengo esto, que es más o menos, o sea es el freelance, la programación
+
+ASISTENTE:
+Sí, esto **ya cuenta como experiencia profesional**, no lo pondría como simples “proyectos de facultad”. Aunque no hayas tenido un empleo tradicional, estás desarrollando soluciones para clientes reales y **Temp Track ya está funcionando en entornos reales**, que para un perfil junior suma muchísimo.
+
+De Temp Track yo tenía contexto de que venías trabajando con **Arduino/ESP32, sensores y monitoreo**, pero no tenía registrado todo lo que me acabás de contar sobre las implementaciones comerciales.
+
+Para el CV, probablemente armemos una sección tipo **“Experiencia y proyectos”** o **“Experiencia en desarrollo de software”**, y metemos estos dos como los protagonistas. Para cerrarlos bien me falta esto:
+
+1. **TEMP TRACK**
+   - ¿Desde qué mes/año lo desarrollás?
+   - ¿Lo hiciste vos solo o con tu papá/equipo? ¿Cuántas personas?
+   - ¿Qué Arduino/placa usa finalmente?
+   - ¿Qué sensores utiliza?
+   - ¿Cómo manda la información? Wi-Fi, Ethernet, ESP32, etc.
+   - ¿Dónde se ven las temperaturas? ¿Web, app, dashboard?
+   - ¿Tiene base de datos? ¿Cuál?
+   - ¿Qué lenguaje/tecnologías usaron además de Arduino?
+   - ¿Manda alertas si una heladera pasa determinada temperatura? ¿Email, WhatsApp, notificación, etc.?
+   - ¿Qué hiciste **vos específicamente** dentro del proyecto?
+   - Lo más importante: aproximadamente ¿cuántos equipos/sensores están funcionando hoy y cuántos lugares ya lo usan o están por implementarlo?
+
+2. **URBANUBE**
+   - ¿Desde qué mes/año hasta qué mes/año trabajaste en esto?
+   - Confirmame si el cliente era directamente **Century 21** o una oficina/franquicia específica de Century 21.
+   - Web: ¿qué tecnologías usaron? HTML/CSS/JS, React, Next, otra.
+   - CRM: ¿con qué lo hicieron y qué funciones tenía?
+   - App mobile: ya tengo **React Native**, pero ¿qué usaste para el backend?
+   - ¿Qué base de datos?
+   - ¿Consumía APIs?
+   - ¿Tenía login/usuarios?
+   - ¿Qué hacía la app? Propiedades, clientes, agentes, reservas, CRM, mensajes, etc.
+   - Equipo: dijiste 4–5 personas. ¿Cuál fue exactamente tu rol? Hasta ahora tengo **frontend web + desarrollo frontend y backend de la aplicación mobile**.
+   - ¿La solución llegó a ponerse en producción / utilizarse realmente?
+
+Y hay algo importante: **no hace falta que tengas GitHub de estos dos proyectos** si son trabajos para clientes y el código no es público. Podemos armar después 2–3 proyectos personales para GitHub si queremos fortalecer el CV.
+
+De hecho, por lo que me contaste, el CV puede empezar a orientarse mucho más claramente hacia:
+
+**Software Developer | React Native | IoT & Systems Development**
+
+Y Temp Track puede ser probablemente **la experiencia más fuerte del CV**, porque poder decir que diseñaste un sistema IoT que actualmente monitorea equipamiento de refrigeración en negocios reales es muchísimo más atractivo que llenar el CV con trabajos prácticos genéricos.
+
+Mandame primero las respuestas de **Temp Track**, como te salgan. No hace falta que uses términos técnicos perfectos; yo después lo convierto al lenguaje del CV.
+
+USUARIO:
+Mirá, Temtrack lo empezamos a desarrollar en abril del 2026 y ahora está finalizándose casi todo, o sea, ya están funcional la mayoría de las cosas, tipo falta solucionar temas de página web, de app mobile, tipo levantarlas en App Store o algo y nada, ese todo ese sí, o sea, actualmente sí hoy. No, Temtrack es solo mío, lo hice con un amigo, pero ese amigo lo que hace es la parte de cliente, o sea, conseguir cliente. O sea, él fue el que me trajo el frigorífico. Yo le di la solución. O sea, Temtrack técnicamente todo el desarrollo es mío. También lo presenté en mi tesis con la facultad. Lo estamos desarrollando también con la tesis. Es parte de la tesis en un principio, pero la realidad es que hice todo yo. O sea, el avance cuando yo llegué a la tesis y lo presenté, le gustó, quisimos avanzar, ya tenía casi todo desarrollado. Entonces la realidad es que viene más por mí que otra cosa. No, lo que usamos fue un ESP32, un módulo W5500, la sonda, una luz, módulo Wi‑Fi, el W5500 es el Ethernet, perdón. Creo que nada más. La idea es después agregar un sensor de apertura de puerta, pero no lo usamos. El sensor que utilizamos es un DS18B30, creo que era. Pero bueno, después vamos a querer usar uno de temperatura y humedad, pero bueno, todavía no lo tenemos decidido. ¿Cómo mandamos la información? Bueno, Ethernet principalmente, también se puede usar Wi‑Fi. ¿Dónde se ven las temperaturas? En la web principalmente, está andando, y también la idea es levantarle una app mobile. No decidimos ponerlo en el equipo porque la mayoría de las heladeras ya tienen ese aparatito para verlo, pero solo tienen eso. Tiene base de datos, es Supabase. El lenguaje es... ahora sí te mando todo el código, pero el lenguaje creo que es todo Java. No sé qué más. Manda alertas de temperatura, todavía no manda, porque la idea es que mande a través de notificaciones de push en el teléfono, pero como no está levantada en una... ¿cómo se dice? en App Store o Play Store no te lo puedo hacer. En un momento lo habíamos hecho con Telegram, pero bueno, lo desactivamos porque la realidad es que no nos gustaba mucho. Necesitamos sí o sí que sean notificaciones. ¿Qué hice yo dentro del proyecto? Todo, todo básicamente todo: front, back, base de datos, hardware, todo, literalmente todo, porque literal, como te lo conté, me lo trajeron, lo empezamos a desarrollar y después lo presenté en mi tesis, pero ya tenía casi todo desarrollado. ¿Cuántos equipos hoy están funcionando hoy? Ahora están funcionando dos, cuatro, cuatro en tres lugares distintos. Pero la idea es que en cualquier momento estén andando, no sé, fácil siete, ocho, en un lugar más y después uno de los que ya tiene lugares, que es el frigorífico, que tiene que estar andando como cuatro o cinco más seguro. Vamos con Urbanuve. Urbanuve desde octubre del... no, perdón, noviembre del 2025 hasta marzo del 2025. Pero después seguí, fui haciendo cosas muy vagas, tipo más tranquilo porque arranqué la facu, así que podría hacer un poquito más de tiempo. El cliente, sí, en realidad el cliente es Century 21 Argentina, así que, tipo se lo vendimos a ellos el proyecto. Para la web todo React Native. Todo React, CRM, cómo lo hicieron y qué función tenía, no sé, yo no me tocó el CRM, ni idea. App Mobile ya tengo React Native, pero ¿qué usaste a partir del backend? Nada, ya ni me acuerdo, la verdad ni me acuerdo. te puedo pasar los códigos también, ahí si te interesa te lo paso. Base de datos no, no tuve nada. API sí usaba. tecnología de login de usuario sí usaba el autenticador de Google. y la app era principalmente solo para personas dentro de Century, es como una app privada. O sea, solo es para vos ver tus propiedades, tus ventas, tus leads, que son las ofertas que te llegan. El equipo... no, mi rol era, no sé, el que estaba ahí para hacer las cosas. No tengo un rol. hacía lo que me pedían, básicamente. Es lo que vos me decís: front-end web, desarrollo front-end y back de la aplicación mobile, un poco de eso más o menos. Más que nada front que back, te diría, en la app Mobile. La solución ya está andando, no al 100%, sigue faltando un montón de cosas, pero ya está en producción en todo el Century Argentina. Después decime más qué más necesitas.
+
+ASISTENTE:
+Perfecto. Con esto ya tenemos **la parte más fuerte del CV bastante encaminada**. Y sí: **Temp Track lo pondría arriba de Urbanube**, porque muestra que diseñaste prácticamente de punta a punta una solución real que ya está instalada en clientes.
+
+Hay un solo dato que necesito corregir de Urbanube: pusiste **“noviembre de 2025 hasta marzo de 2025”**. Supongo que quisiste decir **noviembre de 2025 a marzo de 2026**, ¿no?
+
+Además, no hace falta que me mandes todo el código por ahora. Si después querés, me podés pasar los proyectos y saco de ahí **las tecnologías exactas** para no poner nada incorrecto. Especialmente serviría para saber el backend de Urbanube y confirmar el stack de Temp Track.
+
+### Lo que ya tengo
+
+**TEMP TRACK — Desarrollador Full Stack / IoT**  
+Abril 2026 – Actualidad
+
+- Desarrollo integral de una plataforma IoT para monitoreo remoto de equipos de refrigeración en frigoríficos y establecimientos gastronómicos.
+- Diseño e implementación del hardware utilizando **ESP32, Ethernet W5500 y sensores de temperatura DS18B20**.
+- Desarrollo completo de **frontend, backend, base de datos e integración de hardware**.
+- Implementación de comunicación mediante **Ethernet y Wi-Fi**.
+- Desarrollo de plataforma web para visualización y monitoreo de temperaturas en tiempo real.
+- Utilización de **Supabase** para gestión y almacenamiento de datos.
+- Diseño de sistema de alertas ante temperaturas fuera de rango, con implementación de notificaciones push prevista para la aplicación móvil.
+- Actualmente instalado en **3 establecimientos**, con **4 dispositivos operativos**, y expansión prevista a nuevos puntos.
+- Proyecto presentado además como parte del trabajo final/tesis de la Tecnicatura en Desarrollo de Software.
+
+La última parte de cantidad de instalaciones la voy a redactar con cuidado para que no parezca que estamos inflando algo futuro. Lo fuerte es poder poner que **ya hay 4 dispositivos operativos en 3 establecimientos**.
+
+**URBANUBE — Software Developer**  
+Noviembre 2025 – ¿Marzo 2026? / participación posterior
+
+Cliente: Century 21 Argentina
+
+- Participación en el desarrollo de una plataforma digital compuesta por **sitio web, CRM y aplicación móvil**.
+- Desarrollo principalmente del **frontend de la plataforma web**.
+- Desarrollo de la aplicación móvil utilizando **React Native**, trabajando tanto en frontend como en algunas funcionalidades de backend.
+- Integración con APIs y autenticación mediante Google.
+- Desarrollo de funcionalidades internas para agentes de Century 21, incluyendo visualización de **propiedades, operaciones, ventas y leads**.
+- Trabajo dentro de un equipo de aproximadamente **4–5 desarrolladores**.
+- Solución implementada y actualmente en producción dentro de **Century 21 Argentina**.
+
+Acá evitaría decir que fuiste “encargado” de X si no tenías formalmente ese rol. Queda mejor y es completamente defendible decir **“desarrollé el frontend...”** o **“fui responsable del desarrollo de...”** en las partes que efectivamente hiciste.
+
+---
+
+### Ahora me faltan principalmente 4 cosas
+
+**1. Tecnologías y conocimientos**
+
+Decime cuáles de estas sabés usar. No hace falta que me pongas nivel todavía:
+
+- Java
+- JavaScript
+- TypeScript
+- Python
+- C / C++
+- HTML
+- CSS
+- React
+- React Native
+- Node.js
+- SQL
+- MySQL
+- PostgreSQL
+- Supabase
+- Git
+- GitHub
+- Linux
+- UML
+- APIs REST
+- Arduino
+- ESP32
+- Redes
+- Testing / QA
+- Android Studio
+- Alguna otra que me esté faltando.
+
+Podés copiar la lista y poner **sí/no** al lado.
+
+**2. Inglés**
+
+¿Qué nivel tenés aproximadamente?
+
+- Básico
+- Intermedio
+- Intermedio alto
+- Avanzado
+
+Y si estudiaste en instituto/colegio bilingüe o tenés algún certificado.
+
+**3. Cursos o certificaciones**
+
+Cualquier curso aparte de UADE. Si no tenés, no pasa nada y directamente omitimos esa sección.
+
+**4. Datos extra**
+
+Decime si tenés:
+
+- Licencia de conducir.
+- Movilidad propia.
+- Disponibilidad full-time / part-time.
+- Disponibilidad híbrida/remota/presencial.
+- Nacionalidad no hace falta.
+- Edad no la pondría.
+- Foto tampoco la pondría en un CV Harvard.
+
+Y una cosa más: **no pondría “sin experiencia laboral” en ningún lado**. Con estos dos proyectos, particularmente Temp Track y Urbanube en producción, tu CV se puede presentar perfectamente como alguien con **experiencia práctica/profesional en desarrollo**, aunque todavía no hayas tenido un puesto tradicional en relación de dependencia.
+
+Mandame ahora **tecnologías + inglés** y seguimos con eso.
+
+USUARIO:
+A ver, primero: tecnología Java, JavaScript, Python, HTML, CSS, React, React Native, un poco de SQL, MySQL, Supabase, ponlele que un poco, GitHub, todo lo que es UML, sí, pero no sé si se considera. Bueno, no sé, tipo son diagramas. Arduino C, ESP32C, Redis C, testing podría entrar y Android Studio. Todo eso seguro. O sea, después lo demás como que un poquito de duda. Tipo C no tengo ni idea nada, Node no tengo ni idea nada, Linux poco y nada, APIs, bueno, APIs sí, debería estar. Inglés básico intermedio, te diría más tirando a básico. Cursos o certificaciones, los únicos cursos que tengo así hechos son de Google Ads Search y Google Ads Display, que lo hice en plataforma Cinegio, no sé si la verdad es que sirve mucho para mi rubro, pero bueno. Después datos extras, sí, licencia de conducir tengo, movilidad propia tengo, disponibilidad en redes sería part time durante el verano, full time durante... perdón, full time durante el verano, part time durante la cursada, por si yo avanzar en la carrera y seguir con otra carrera, que es mi idea. pero bueno, te diría no pongas la disponibilidad, no sé, si es necesaria ponelo, pero bueno. Disponibilidad híbrida, remota, por si sea cualquiera. Nacionalidad no hace falta, es Argentina por las dudas. Edad, si no la querés poner no la pongas, pero bueno. Y sí, sí, es que foto no va, no va. No sé, para mí va, pero bueno. Decime vos.
+
+ASISTENTE:
+Sí, ya con esto estamos bastante cerca. Para un **CV Harvard orientado a software**, yo lo dejaría bastante limpio y sin meter datos que no suman directamente.
+
+### Tecnologías que sí pondría
+
+**Lenguajes:** Java, JavaScript, Python, HTML, CSS  
+**Frameworks / Desarrollo:** React, React Native  
+**Bases de datos:** SQL, MySQL, Supabase  
+**Herramientas:** Git, GitHub, Android Studio  
+**Hardware / IoT:** Arduino, ESP32  
+**Otros conocimientos:** APIs REST, UML, Testing / QA
+
+Y una corrección: Arduino y ESP32 normalmente los presentaría como **C/C++ para sistemas embebidos**, en vez de “Arduino C” y “ESP32 C”.
+
+UML **sí suma**, especialmente siendo estudiante y apuntando también a Sistemas, porque muestra que sabés modelar sistemas y no únicamente programar.
+
+Si cuando dijiste **“Redis C”** quisiste decir **Redes**, también lo podemos poner como conocimiento básico de redes. Si te referías a Redis, ahí decime porque es otra tecnología distinta.
+
+### Inglés
+
+No pondría “básico-intermedio” porque queda medio indefinido. Pondría algo simple:
+
+**Inglés — Nivel básico**
+
+Si entendés documentación técnica bastante bien aunque hablar te cueste, podemos poner:
+
+**Inglés — Nivel básico/intermedio, lectura técnica**
+
+Eso para sistemas es bastante más útil.
+
+### Cursos de Google Ads
+
+Yo **no los pondría en este CV**. No porque estén mal, sino porque ocupan lugar que podemos usar para Temp Track, Urbanube o tecnologías.
+
+Si más adelante hacés otro CV para algo relacionado con marketing, e-commerce o desarrollo web + marketing, ahí sí sirven.
+
+### Licencia y movilidad
+
+Tampoco las pondría. Para un puesto de desarrollo de software normalmente no aportan nada.
+
+### Disponibilidad
+
+**No la pondría en el CV.** Eso se habla cuando te preguntan durante el proceso.
+
+### Foto
+
+Para el formato Harvard que querés hacer: **sin foto**.
+
+En Argentina es bastante habitual ver CV con foto, pero no es necesaria. Si queremos hacer realmente el estilo Harvard/ATS, prefiero:
+
+- Sin foto
+- Sin edad
+- Sin DNI
+- Sin nacionalidad
+- Sin estado civil
+- Sin dirección exacta
+
+Solamente **La Plata, Buenos Aires**.
+
+Después, si querés, podemos hacer una **segunda versión argentina con foto**, pero para LinkedIn, empresas grandes, multinacionales y búsquedas IT me quedaría con la versión sin foto.
+
+---
+
+### Lo que tenemos hasta ahora
+
+Tu CV tendría aproximadamente esta estructura:
+
+**NICOLÁS HÉCTOR GIULIANI**  
+La Plata, Buenos Aires | Teléfono | Email | LinkedIn | GitHub eventualmente
+
+**PERFIL PROFESIONAL**  
+Estudiante avanzado de Desarrollo de Software con experiencia práctica en desarrollo full-stack, aplicaciones móviles y soluciones IoT. Experiencia desarrollando productos implementados en entornos reales utilizando React Native, React, Supabase, ESP32 y otras tecnologías.
+
+Después lo vamos a redactar mucho mejor cuando terminemos todo.
+
+**EXPERIENCIA / PROYECTOS PROFESIONALES**
+
+**Temp Track — Full-Stack & IoT Developer**  
+Abril 2026 – Actualidad
+
+**Urbanube — Software Developer**  
+Noviembre 2025 – [fecha a confirmar]
+
+**EDUCACIÓN**
+
+UADE — Tecnicatura en Desarrollo de Software  
+Marzo 2025 – Marzo 2027
+
+**TECNOLOGÍAS**
+
+Las que acabamos de definir.
+
+**IDIOMAS**
+
+Inglés — Básico / lectura técnica, según lo que me confirmes.
+
+---
+
+Ahora me faltan **muy pocas cosas**:
+
+1. Confirmame Urbanube: dijiste **noviembre de 2025 a marzo de 2025**. ¿Era **noviembre 2025 → marzo 2026**?
+2. ¿Con **“Redis C”** quisiste decir **Redes**?
+3. En Temp Track, ¿con qué está hecha la **web**? React, HTML/CSS/JS, otra cosa.
+4. ¿La app mobile de Temp Track está hecha o la estás haciendo con **React Native**?
+5. Y después sí, podemos pasar a **armar el CV completo** y ahí vemos si necesitamos preguntarte algo más.
+
+USUARIO:
+Dale, perfecto, sí. Si vos me decís que CI CM más más, lo de Arduino y ESP, como quieras. Última meté uno de los dos. Pero para mí con hardware y lot, para mí va, ya está, no sé. Porque la realidad es que no tengo tanto información sobre CI, o sea, uso mucho cloud para eso y bueno. Inglés no sé, última pone básico. No, claramente básico de internet no, pero pone básico. O no sé, básico, barra intermedio, lectura técnica, como vos dijiste recién. Lo de ads, dejalo fuera y sí lo de la foto. Bueno, armemos dos, uno con foto y otro sin foto. Decime si me lo podés armar vos. Urba Nube, sí, de noviembre del 25 a ponle abril del 26, Urba Nube. Con redes CM me quería referir a redes, redes de datos. Tuve materias en la facultad sobre redes y más o menos la entiendo y manejo también por Temtrack y porque la vida cotidiana, toda la vida me gustó todo lo que es reparación de objetos, tipo todo lo que es tecnología, redes, audio, tipo básicamente como el que ayuda a arreglar las cosas. Bueno, esas cosas me encantan. Son boludeces, pero me gustan. Ahora te digo lo de la web de Temtrack. Ahora te digo lo de la mobile de Temtrack y nada eso.
+
+ASISTENTE:
+Sí, te lo puedo armar yo completo y después te preparo **dos versiones**:
+
+- **CV Harvard / ATS sin foto** → el principal, para LinkedIn, empresas de software, IT, multinacionales, etc.
+- **CV con foto** → misma información y estilo profesional, pero adaptado a algo más habitual en búsquedas locales de Argentina.
+
+Y sí, entendí lo de Arduino/ESP32. **No hace falta que pongamos C/C++ como lenguaje fuerte** si no te sentís cómodo diciendo que lo manejás. Prefiero que el CV sea 100% defendible en una entrevista. Lo podemos mostrar así:
+
+**Hardware & IoT:** ESP32, Arduino, sensores IoT, Ethernet/Wi-Fi, integración hardware-software  
+**Redes:** Fundamentos de redes de datos, Ethernet, Wi-Fi  
+**Modelado y testing:** UML, Testing/QA
+
+Eso refleja mucho mejor lo que realmente sabés hacer.
+
+Tu sección técnica por ahora quedaría aproximadamente:
+
+**Lenguajes:** Java, JavaScript, Python, HTML, CSS  
+**Frameworks:** React, React Native  
+**Bases de datos:** SQL, MySQL, Supabase  
+**Herramientas:** Git, GitHub, Android Studio  
+**IoT & Hardware:** ESP32, Arduino, integración de sensores, Ethernet/Wi-Fi  
+**Otros:** APIs REST, UML, Testing/QA, Redes de datos
+
+**Idiomas:** Inglés — Básico/intermedio, lectura técnica.
+
+Y lo que me contaste de que siempre te interesó **reparar, configurar y entender tecnología, redes, audio, computadoras, etc.** no lo pondría literalmente como “me gusta arreglar cosas”, pero sí me sirve para redactar tu **perfil profesional**. Ahí podemos marcar que tenés una orientación práctica hacia software, hardware, IoT y resolución de problemas técnicos. Eso encaja muy bien con Temp Track.
+
+Por ahora **Google Ads afuera, licencia afuera, movilidad afuera y disponibilidad afuera**.
+
+Solo mandame cuando puedas estas dos cosas de **Temp Track**:
+
+1. **Con qué está hecha la web.**
+2. **Con qué está hecha/estás haciendo la app mobile.**
+
+Con eso cierro Temp Track. Después te hago un último repaso de los datos que tenemos y vemos si falta algo antes de armar las **dos versiones finales del CV**.
+
+USUARIO:
+dame en que lenguaje esta codeado todo lo del back front y todo lo de mobile
+
+USUARIO:
+[Imagen adjunta con una tabla]
+
+Texto visible en la imagen:
+
+Parte | Lenguaje | Tecnología
+
+Web (front) | TypeScript (.ts / .tsx) | Next.js (App Router) con React, publicada en Vercel
+
+App móvil | TypeScript (.ts / .tsx) | React Native + Expo, estilos con NativeWind (Tailwind)
+
+Backend: base de datos | SQL y PL/pgSQL | PostgreSQL en Supabase: tablas, RLS, triggers, funciones RPC (vincular_equipo, detectar_alertas(), etc.) y pg_cron
+
+Backend: Edge Functions | TypeScript | Deno en Supabase: ingest-lectura, informe-sensor, exportar-csv, invitar-usuario, aceptar-invitacion
+
+Firmware (equipos) | C++ | Arduino sobre ESP32, con APIs de ESP-IDF para OTA, watchdog y DNS
+
+En resumen: todo el software es TypeScript (web, app y Edge Functions), la lógica de base de datos es SQL / PL/pgSQL, y los equipos van en C++.
+
+ASISTENTE:
+Sí, ahora quedó clarísimo. Y esto cambia un poco lo que habíamos anotado antes: **Temp Track no está hecho en Java**.
+
+Para **Temp Track**, el stack real es:
+
+- **Web / Frontend:** **TypeScript** + **Next.js** + **React**, desplegado en Vercel.
+- **App mobile:** **TypeScript** + **React Native** + **Expo**, con NativeWind/Tailwind para estilos.
+- **Backend / Base de datos:** **PostgreSQL en Supabase**, usando **SQL y PL/pgSQL**.
+- **Backend / Edge Functions:** **TypeScript** ejecutado con **Deno en Supabase**.
+- **Firmware / ESP32:** **C++**, usando Arduino sobre ESP32 y APIs de ESP-IDF.
+- **Infraestructura/datos:** Supabase, PostgreSQL, APIs, Ethernet y Wi-Fi.
+
+Así que, resumido para el CV, podemos decir:
+
+**Tecnologías de Temp Track:**  
+`TypeScript · React · Next.js · React Native · Expo · Supabase · PostgreSQL · SQL · C++ · ESP32 · Arduino · REST APIs · Vercel`
+
+Y además esto nos permite mejorar bastante tu sección de conocimientos. Yo pondría **TypeScript** entre tus lenguajes principales porque literalmente lo estás usando en **frontend web, mobile y backend**.
+
+Tu lista de lenguajes quedaría:
+
+**Lenguajes:** TypeScript, JavaScript, Java, Python, C++, SQL, HTML, CSS.
+
+Y ahora sí puedo describir Temp Track mucho más fuerte en el CV como un proyecto **full-stack + mobile + IoT**, porque efectivamente tocaste **frontend, backend, base de datos, app mobile y firmware**.
+
+USUARIO:
+Pero TypeScript no es una como extensión de JavaScript?
+
+ASISTENTE:
+Sí, exactamente. **TypeScript es un “superset” de JavaScript**: parte de JavaScript y le agrega principalmente tipado estático y herramientas extra para desarrollar proyectos grandes de forma más segura.
+
+Ejemplo simple:
+
+```js id="n2ekdq"
+// JavaScript
+let edad = 24;
+```
+
+```ts id="fzvm66"
+// TypeScript
+let edad: number = 24;
+```
+
+Después, TypeScript normalmente se **compila/transpila a JavaScript** para ejecutarse.
+
+Para el CV, igual conviene poner **JavaScript y TypeScript por separado**, porque en búsquedas laborales suelen aparecer como skills distintas. En tu caso tiene sentido porque Temp Track está desarrollado directamente en TypeScript.
+
+Yo pondría:
+
+**Lenguajes:** JavaScript, TypeScript, Java, Python, SQL, C++  
+**Frontend/Mobile:** React, Next.js, React Native, Expo
+
+Así queda más prolijo y técnicamente correcto.
+
+USUARIO:
+dale que mas?
+
+ASISTENTE:
+Ya falta muy poco. Para cerrarlo bien, me faltan básicamente estas cosas:
+
+- **Urbanube:** si podés, pasame una captura/listado como la que me mandaste de Temp Track con **lenguajes, frontend, mobile y backend**. Así no inventamos ninguna tecnología.
+- **Nombre exacto de la carrera:** confirmame si oficialmente figura como **“Tecnicatura Universitaria en Desarrollo de Software”** o simplemente **“Tecnicatura en Desarrollo de Software”**.
+- **Links públicos:** si Temp Track o Urbanube tienen web pública, pasámela. GitHub por ahora **no es obligatorio**; si no tenés uno presentable, lo dejamos afuera.
+- **Foto:** para la segunda versión del CV, mandame la foto que quieras usar. Si no tenés una adecuada, después vemos cuál conviene.
+
+Y una cosa opcional que podría mejorar **Urbanube** bastante: si sabés algún número real tipo cuántos usuarios/agentes/oficinas lo usan, suma. Si no lo sabés, **no pasa nada**; ponemos simplemente que la solución está implementada en Century 21 Argentina.
+
+De **Temp Track ya tengo suficiente**: stack, hardware, funciones, 4 dispositivos operativos en 3 establecimientos y tu rol completo de desarrollo.
+
+Después de eso, ya puedo armar:
+
+**1. CV Harvard/ATS sin foto — versión principal**  
+**2. CV profesional con foto — misma información adaptada**
+
+Y yo me encargo de redactar el **perfil profesional**, ordenar las tecnologías y convertir toda la experiencia en bullets profesionales.
+
+USUARIO:
+No, para oro casi todo es React Native. Porque casi todo fue front, muy poco back toqué, así que me quedaría más con React principalmente. No saldría mucho de ahí. No sé cómo ponerle más información, pero se queda ahí. Las carreras sí, técnica reactoria universitaria desarrollo software. Links públicos sí hay, pero ponle el de Temtrack, que es tipo obviamente la web y no muestra nada, o sea no vas a poder ver nada. Y el de Sendury nada, te puedo dar, pero tipo es un portal de información. No te puedo dar el del CRM porque el del CRM es tipo internos, o sea, sí te lo doy, pero no se puede entrar. Me empieza a caer al pedo.
+
+ASISTENTE:
+Perfecto. Entonces **Urbanube lo presentamos principalmente como experiencia frontend**, sin inflar la parte de backend:
+
+**Urbanube — Software Developer / Frontend Developer**  
+Noviembre 2025 – Abril 2026  
+- Desarrollo frontend de plataforma web utilizando **React**.
+- Desarrollo de aplicación móvil interna utilizando **React Native**.
+- Integración de APIs y autenticación de usuarios.
+- Desarrollo de funcionalidades para gestión y consulta de propiedades, ventas y leads.
+- Participación en un equipo de 4–5 personas.
+- Solución implementada para **Century 21 Argentina**.
+
+Y la carrera la dejamos como **Tecnicatura Universitaria en Desarrollo de Software — UADE**.
+
+Con los links coincido con vos: **no pondría links que llevan a login o a portales internos**, porque no aportan nada. El de Temp Track solamente lo pondría si al abrirlo se ve al menos una landing o algo presentable; si entra directo a login o no muestra nada, también lo podemos dejar afuera. Con LinkedIn alcanza.
+
+A esta altura, **para el CV sin foto ya tengo prácticamente todo**. Para la versión con foto, solamente necesito que me mandes la foto que quieras usar.
+
+Si querés incluir la web de Temp Track, pasame también el link. Si no, la omitimos tranquilamente.
+
+Después de eso ya te lo puedo armar en las dos versiones:
+**Harvard/ATS sin foto** y **profesional con foto**.
+
+USUARIO:
+Dale, ahí te daré, te mando una foto más o menos y después Century está implementado en todas las oficinas de Argentina. Tengo entendido que son 110. No sé.
+
+ASISTENTE:
+Sí, eso suma bastante. Y de hecho lo verifiqué: hoy el sitio oficial de Century 21 Argentina muestra **112 oficinas en el país**. ([century21.com.ar](https://century21.com.ar/?utm_source=chatgpt.com))
+
+Entonces, en vez de poner un número dudoso como “110”, yo lo redactaría de una forma que quede fuerte y siga siendo segura si el número cambia:
+
+**“Solución implementada a nivel nacional en la red de Century 21 Argentina, con presencia en más de 100 oficinas.”**
+
+O, si querés ser más concreto:
+
+**“Solución implementada en la red de Century 21 Argentina, actualmente presente en 112 oficinas a nivel nacional.”** ([century21.com.ar](https://century21.com.ar/?utm_source=chatgpt.com))
+
+Para un CV prefiero la primera, porque no queda desactualizada si abren o cierran alguna oficina.
+
+Mandame después la foto y ya estamos prácticamente para armar las dos versiones.
+
+USUARIO:
+[Imagen adjunta: selfie dentro de un auto]
+
+Escucha, te mando esta foto, fíjate la última de sacar el fondo porque estoy agarrando un auto, pero parezco bastante bien parado en esa foto, tipo es la única foto medio así formal porque tengo otra parecida, pero no sé, me siento que me veo feo, me veo raro. Fíjate si la última esa fondo, sacarle el fondo y poner un fondo normal o ver qué hacemos. Si no te mando otra foto, ya está. Pero bueno, si se puede corregir
+
+ASISTENTE:
+[Imagen generada/editada: retrato profesional con fondo neutro]
+
+USUARIO:
+si usala asi
+
+ASISTENTE:
+Sí, usamos esa foto así para la versión con foto.
+
+Ya quedó creado el trabajo para armarte las dos versiones:
+- **CV Harvard/ATS sin foto**
+- **CV profesional con esta foto**
+
+En ambos voy a mantener el foco en **desarrollo de software, sistemas e IT**, destacando **Temp Track** y **Urbanube**.
+
+USUARIO:
+pasame todo lo que esta en este chat escrito en un archivo, absolutamente todo palabra por palabra a asi se lo paso al cowork que no puede leer todo
+
